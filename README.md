@@ -21,4 +21,4 @@ Quick Link
 [Website]:https://dennis-hammerschmidt.rbind.io/
 -->
 
-This repository contains my code and contributions to the #TidyTuesday project.
+This repository contains my code and contributions to the [`TidyTuesday`](https://github.com/rfordatascience/tidytuesday) project.
