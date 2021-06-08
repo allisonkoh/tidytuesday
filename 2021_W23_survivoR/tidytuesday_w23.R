@@ -24,6 +24,8 @@ pacman::p_load(
   tidyverse, 
   survivoR,
   viridis,
+  # hexbin, # for plotting geom_hex (didn't use in final code)
+  ggforce
 )
 
 # import ------------------------------------------------------------------
@@ -91,7 +93,28 @@ castaways_grouped <- castaways %>%
     result = fct_relevel(result, result_levels)
   )
 
-# final plot --------------------------------------------------------------
+# without "complete" data 
+castaways_grouped1 <- castaways %>% 
+  group_by(result, challenges_won) %>% 
+  tally() %>%
+  # complete(result, nesting(challenges_won), fill = list(n = 0)) %>% 
+  filter(
+    result != "Ejected" & result != "Eliminated" & result != "Medically evacuated" & 
+      result != "Quit" & result != "Switched" & result != "WithdrewFamily"
+  ) %>% 
+  mutate(
+    result = recode(
+      result, 
+      "Co-runner-up" = "Runner-up",
+      "2nd Runner-up" = "Runner-up",
+      "2nd runner-up" = "Runner-up"
+    ),
+    result = fct_relevel(result, result_levels)
+  )
+
+
+
+# original final plot w/ geom_tile ----------------------------------------
 castaways_grouped %>% 
   ggplot(aes(x = result, y = challenges_won, fill = n)) + 
   geom_tile() + 
@@ -108,6 +131,26 @@ castaways_grouped %>%
   )
 
 ggsave("2021-w23-final-plot.png", width = 8, height = 4)
+
+# plot with geom_regon from {ggforce} -------------------------------------
+castaways_grouped %>% 
+  ggplot(aes(x = result, y = challenges_won, fill = n)) + 
+  geom_tile() + 
+  # geom_regon(aes(x0 = runif(8), y0 = runif(8), sides = sample(3:10, 8),
+                 # angle = 0, r = runif(8) / 10)) +
+  scale_fill_viridis(option = "C") + 
+  labs(
+    title = "Survivor: Challenges Won by Result",
+    fill = "",
+    caption = "Visualization: Allison Koh | Source: {survivoR} by Daniel Oehm"
+  ) + 
+  theme_minimal() +
+  theme(
+    legend.position = "bottom",
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+
+ggsave("2021-w23-plot-regon.png", width = 8, height = 4)
 
 # archive -----------------------------------------------------------------
 # challenge_winners <- left_join(challenge_winners_left, challenges, by = "column_label") %>% 
