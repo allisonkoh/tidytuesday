@@ -35,10 +35,13 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh) with any qu
 
 ***
 
+## [2021, Week 24](https://github.com/allisonkoh/tidytuesday/tree/main/2021_w24_fish): Great Lakes Fishery Commission data 
+
+![./2021_w24_fish/2021-w24-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w24_fish/2021-w24-plot.png)
+
+***
+
 ## [2021, Week 23](https://github.com/allisonkoh/tidytuesday/tree/main/2021_W23_survivoR): {survivoR} 🏝 by [Daniel Oehm](http://gradientdescending.com/survivor-now-on-cran/)
 
 ![./2021_W23_survivoR/2021-w23-final-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021_W23_survivoR/2021-w23-final-plot.png)
 
-***
-
-https://github.com/allisonkoh/tidytuesday/tree/main/2021_w24_fish
