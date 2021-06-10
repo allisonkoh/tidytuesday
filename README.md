@@ -21,4 +21,24 @@ Quick Link
 [Website]:https://dennis-hammerschmidt.rbind.io/
 -->
 
-This repository contains my code and contributions to the [`TidyTuesday`](https://github.com/rfordatascience/tidytuesday) project.
+This repository contains my code and contributions to the [`TidyTuesday`](https://github.com/rfordatascience/tidytuesday) project---a weekly social data project that crowd-sources our collective understanding how to summarize and arrange data to make meaningful charts with tools in the tidyverse ecosystem, such as `ggplot2`, `tidyr`, `dplyr`, and other packages.
+
+Feel free to reach out via [Twitter](https://twitter.com/allisonkoh) with any questions or feedback. Thank you! 
+
+<details> 
+  <summary>Overview of Contributions</summary>
+  
+**2021**
+  - Week 23: [{survivoR} 🏝](https://github.com/allisonkoh/tidytuesday/blob/main/2021_W23_survivoR/2021-w23-final-plot.png)
+  - Week 24: [Great Lakes Fishery Commission](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w24_fish/2021-w24-plot.png)
+</details>
+
+***
+
+## [2021, Week 23](https://github.com/allisonkoh/tidytuesday/tree/main/2021_W23_survivoR): {survivoR} 🏝 by [Daniel Oehm](http://gradientdescending.com/survivor-now-on-cran/)
+
+![./2021_W23_survivoR/2021-w23-final-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021_W23_survivoR/2021-w23-final-plot.png)
+
+***
+
+https://github.com/allisonkoh/tidytuesday/tree/main/2021_w24_fish
