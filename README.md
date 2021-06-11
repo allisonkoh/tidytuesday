@@ -23,7 +23,7 @@ Quick Link
 
 This repository contains my code and contributions to the [`TidyTuesday`](https://github.com/rfordatascience/tidytuesday) project---a weekly social data project that crowd-sources our collective understanding how to summarize and arrange data to make meaningful charts with tools in the tidyverse ecosystem, such as `ggplot2`, `tidyr`, `dplyr`, and other packages.
 
-Feel free to reach out via [Twitter](https://twitter.com/allisonkoh) with any questions or feedback. Thank you! 
+Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any questions or feedback. Thank you! 
 
 <details> 
   <summary>Overview of Contributions</summary>
