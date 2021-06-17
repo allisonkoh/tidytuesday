@@ -36,7 +36,7 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
 
 ***
 
-## [2021, Week 25](https://github.com/allisonkoh/tidytuesday/tree/main/2021_w24_fish): Great Lakes Fishery Commission data 
+## [2021, Week 25](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w25_dubois/): #DuboisChallenge Tweets
 
 ![./2021_w25_dubois/global_plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w25_dubois/global_plot.png)
 
