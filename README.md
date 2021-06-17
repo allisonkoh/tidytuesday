@@ -31,7 +31,14 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
 **2021**
   - Week 23: [{survivoR} 🏝](https://github.com/allisonkoh/tidytuesday/blob/main/2021_W23_survivoR/2021-w23-final-plot.png)
   - Week 24: [Great Lakes Fishery Commission](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w24_fish/2021-w24-plot.png)
+  - Week 25: [#DuboisChallenge Tweets](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w25_dubois/global_plot.png)
 </details>
+
+***
+
+## [2021, Week 25](https://github.com/allisonkoh/tidytuesday/tree/main/2021_w24_fish): Great Lakes Fishery Commission data 
+
+![./2021_w25_dubois/global_plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w25_dubois/global_plot.png)
 
 ***
 
