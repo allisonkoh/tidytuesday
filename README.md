@@ -33,7 +33,15 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
   - Week 24: [Great Lakes Fishery Commission](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w24_fish/2021-w24-plot.png)
   - Week 25: [#DuboisChallenge Tweets](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w25_dubois/global_plot.png)
   - Week 26: [Park Data from the Trust for Public Land](https://github.com/allisonkoh/tidytuesday/blob/main/2021_w26_parks/dogpark-plot.png)
+  - Week 27: [Animal Rescues by the London Fire Brigade](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/2021-w27-plt.png)
+ 
 </details>
+
+***
+
+## [2021, Week 27](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/): Dog parks in US Cities
+
+![./2021-w27-animal-rescues/2021-w27-plt.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/2021-w27-plt.png)
 
 ***
 
