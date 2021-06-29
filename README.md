@@ -39,7 +39,7 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
 
 ***
 
-## [2021, Week 27](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/): Dog parks in US Cities
+## [2021, Week 27](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/): Animal rescues in London
 
 ![./2021-w27-animal-rescues/2021-w27-plt.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/2021-w27-plt.png)
 
