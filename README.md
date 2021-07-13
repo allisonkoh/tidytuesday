@@ -23,19 +23,34 @@ Quick Link
 
 This repository contains my code and contributions to the [`TidyTuesday`](https://github.com/rfordatascience/tidytuesday) project---a weekly social data project that crowd-sources our collective understanding how to summarize and arrange data to make meaningful charts with tools in the tidyverse ecosystem, such as `ggplot2`, `tidyr`, `dplyr`, and other packages.
 
-Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any questions or feedback. Thank you! 
+Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any questions or feedback. Thank you!
 
-<details> 
+<details>
   <summary>Overview of Contributions</summary>
-  
+
 **2021**
   - Week 23: [{survivoR} 🏝](https://github.com/allisonkoh/tidytuesday/blob/main/2021_W23_survivoR/2021-w23-final-plot.png)
   - Week 24: [Great Lakes Fishery Commission](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w24-fish/2021-w24-plot.png)
   - Week 25: [#DuboisChallenge Tweets](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w25-dubois/global_plot.png)
   - Week 26: [Park Data from the Trust for Public Land](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w26-parks/dogpark-plot.png)
   - Week 27: [Animal Rescues by the London Fire Brigade](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/2021-w27-plt.png)
- 
+  - Week 28: [Independence days around the world 🗺🎆](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w28/tt-2021-28.gif)
+  - Week 29: [Scoobypedia](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/scooby-plot.png)
+
 </details>
+
+***
+
+## [2021, Week 29](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/): Scoobypedia 
+
+![./2021-w29-scooby/scooby-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/scooby-plot.png)
+
+***
+
+## [2021, Week 28](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w28/): Independence days around the world 🗺🎆
+
+![./2021-w28/tt-2021-28.gif](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w28/tt-2021-28.gif)
+
 
 ***
 
@@ -57,7 +72,7 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
 
 ***
 
-## [2021, Week 24](https://github.com/allisonkoh/tidytuesday/tree/main/2021-w24-fish): Great Lakes Fishery Commission data 
+## [2021, Week 24](https://github.com/allisonkoh/tidytuesday/tree/main/2021-w24-fish): Great Lakes Fishery Commission data
 
 ![./2021_w24_fish/2021-w24-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w24-fish/2021-w24-plot.png)
 
@@ -66,4 +81,3 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
 ## [2021, Week 23](https://github.com/allisonkoh/tidytuesday/tree/main/2021-w23-survivoR): {survivoR} 🏝 by [Daniel Oehm](http://gradientdescending.com/survivor-now-on-cran/)
 
 ![./2021_W23_survivoR/2021-w23-final-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w23-survivoR/2021-w23-final-plot.png)
-
