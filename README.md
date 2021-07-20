@@ -36,12 +36,19 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
   - Week 27: [Animal Rescues by the London Fire Brigade](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w27-animal-rescues/2021-w27-plt.png)
   - Week 28: [Independence days around the world 🗺🎆](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w28/tt-2021-28.gif)
   - Week 29: [Scoobypedia](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/scooby-plot.png)
+  - Week 30: [US Droughts](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w30-droughts/2021-w30-plt.png)
 
 </details>
 
 ***
 
-## [2021, Week 29](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/): Scoobypedia 
+## [2021, Week 30](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w30-droughts/): US Droughts
+
+![./2021-30-droughts/2021-w30-plt.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w30-droughts/2021-w30-plt.png)
+
+***
+
+## [2021, Week 29](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/): Scoobypedia
 
 ![./2021-w29-scooby/scooby-plot.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/scooby-plot.png)
 
