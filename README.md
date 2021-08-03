@@ -37,8 +37,22 @@ Feel free to reach out via [Twitter](https://twitter.com/allisonkoh_) with any q
   - Week 28: [Independence days around the world 🗺🎆](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w28/tt-2021-28.gif)
   - Week 29: [Scoobypedia](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w29-scooby/scooby-plot.png)
   - Week 30: [US Droughts](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w30-droughts/2021-w30-plt.png)
+  - Week 31: [Olympics](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w31-olympics/2021-w31.png)
+  - Week 32: [Paralympics](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w32-paralympics/2021-w32.gif)
 
 </details>
+
+***
+
+## [2021, Week 32](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w32-paralympics/): Paralympics
+
+![./2021-w32-paralympics/2021-w32.gif](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w32-paralympics/2021-w32.gif)
+
+***
+
+## [2021, Week 31](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w31-olympics/): Olympics
+
+![./2021-w31-olympics/2021-w31.png](https://github.com/allisonkoh/tidytuesday/blob/main/2021-w31-olympics/2021-w31.png)
 
 ***
 
